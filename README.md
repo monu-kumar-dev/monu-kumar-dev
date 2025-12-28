@@ -1,42 +1,51 @@
-## Hi, I'm Monu Kumar 👋
+Hi, I’m Monu Kumar.
 
-🎓 BCA Student  
-💻 Frontend Web Developer  
-🌱 Currently learning DSA in Java  
-
----
-
-### 🚀 About Me
-- Interested in building responsive and user-friendly web interfaces  
-- Learning modern frontend technologies step by step  
-- Focused on strong JavaScript and TypeScript fundamentals  
+I’m a BCA student focused on strengthening problem-solving skills through
+Data Structures & Algorithms in Java, while building practical web projects.
 
 ---
 
-### 🛠️ Skills
-- HTML, CSS
-- JavaScript, TypeScript
-- React (learning)
+### What I’m Working On
+- Data Structures & Algorithms (Java)
+- Core Web Development (HTML, CSS, JavaScript)
+- Writing clean, readable, and maintainable code
+- Building small projects consistently instead of one-time big apps
+
+---
+
+### Skills Snapshot
+- Java (DSA & fundamentals)
+- JavaScript (basics + DOM)
+- HTML & CSS
 - Git & GitHub
-- C, Java (basics)
 
 ---
 
-### 📚 Currently Learning
-- Advanced JavaScript concepts
-- TypeScript (types, objects, tuples)
-- Data Structures & Algorithms in Java
+### Selected Work
+**Movie Guide Web App**  
+A frontend project that consumes a public API to display movie data.  
+Focus: API handling, async JS, UI clarity.
+
+**News Search App**  
+Client-side news aggregator with category and keyword filtering.  
+Focus: API integration, pagination, UX basics.
+
+(More projects coming as I progress.)
 
 ---
 
-### 🎯 Goals
-- Frontend Developer Internship
-- Improve problem-solving and coding skills
-- Build real-world frontend projects
+### Learning Philosophy
+I believe daily progress — even small — compounds into strong skills.
+This GitHub reflects my learning journey, not just finished products.
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: monukumar.software@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/monu-kumar-dev  
-- 🌐 GitHub: https://github.com/monu-kumar-dev
+### GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+Reach me:
+- LinkedIn:  https://www.linkedin.com/in/monu-kumar-dev 
+- Email: monukumar.software@gmail.com
