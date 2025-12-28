@@ -43,8 +43,12 @@ gain real-world experience in software and web development.
 
 ---
 
-### GitHub Activity
+## GitHub Activity
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=monu-kumar-dev)
+
 
 ---
 
