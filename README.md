@@ -24,9 +24,14 @@ development through real projects.
 ---
 
 ### Projects
+**Movie Lookup – Movie Search Web App**  
+A frontend application that fetches real-time movie data from the OMDb API
+and displays details such as title, release year, poster, and plot.  
+**Tech Stack:** HTML, CSS, JavaScript, OMDb API  
+
 **Music Player – Frontend Web Application**  
 A browser-based music player that supports play, pause, next, and previous
-track functionality with a clean UI.  
+track functionality with a clean and simple UI.  
 **Tech Stack:** HTML, CSS, JavaScript  
 **Live Demo:** https://luxury-cannoli-6772cc.netlify.app/
 
@@ -40,10 +45,10 @@ gain real-world experience in software and web development.
 
 ### GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=monu-kumar-dev&theme=github-dark)
 
 ---
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/monu-kumar-dev/
 - Email: monukumar.software@gmail.com
+
