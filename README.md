@@ -45,7 +45,8 @@ gain real-world experience in software and web development.
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=monu-kumar-dev)
+![GitHub Streak](https://streak-stats.demolab.com/?user=monu-kumar-dev)
+
 
 
 ---
