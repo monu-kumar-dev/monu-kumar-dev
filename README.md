@@ -65,11 +65,10 @@ I am a **5th Semester BCA student** currently bridging the gap between design an
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  ![GitHub Streak](https://YOUR-NEW-VERCEL-URL.vercel.app/?user=monu-kumar-dev&theme=dark)
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=radical&v=1" alt="Top Languages" height="165px" />
 </p>
+
 
 ---
 
