@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monu Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=BCA+Final+Year+Student;Frontend+Logic+Builder;DSA+with+Java+Enthusiast;Building+with+HTML%2C+CSS+%26+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=BCA+Final+Year+Student;Frontend+Logic+Builder;DSA+with+Java+Enthusiast;Building+with+React+%26+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
 
 ### 👨‍💻 About Me
 
-I am a **5th Semester BCA student** currently bridging the gap between design and logic. My primary focus is building interactive web experiences while maintaining a strong grip on problem-solving.
+I am a **5th Semester BCA student** currently bridging the gap between design and logic. My journey started with C and Java, and now I'm diving deep into modern web architectures.
 
-- 🔭 **Current Focus:** Crafting real-world projects using **JavaScript** and preparing for **React**.
-- 🧠 **DSA Progress:** Successfully reached **Divide & Conquer** in Java (Paused to focus on Web Projects).
-- 🎓 **Education:** Pursuing BCA, aiming to become a Full-Stack Developer.
-- 🌱 **Mindset:** Learning by building; turning abstract logic into clean, functional UI.
+- 🔭 **Current Focus:** Transitioning to **React** and **TypeScript** for scalable UI.
+- 🧠 **DSA Progress:** Covered up to **Divide & Conquer** in Java (Currently refining Web Dev skills).
+- ⚙️ **Foundational Skills:** Strong grip on **C** and Java basics.
+- 🌱 **Learning Path:** Mastering Type-safe development and Component-driven architecture.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Technical Arsenal
 
 <table>
   <tr>
@@ -38,26 +38,26 @@ I am a **5th Semester BCA student** currently bridging the gap between design an
       <br>JavaScript
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java (DSA)
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java (DSA)
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+      <br>C (Basics)
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
       <br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-      <br>VS Code
     </td>
   </tr>
 </table>
@@ -71,15 +71,11 @@ I am a **5th Semester BCA student** currently bridging the gap between design an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### ⚡ Coding Philosophy
 
-> *"Divide your problems, Conquer your code."*
+> *"Writing code is easy. Writing clean, type-safe code is the real art."*
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=monu-kumar-dev&style=flat-square&color=blue&label=Profile+Views" alt="Views" />
