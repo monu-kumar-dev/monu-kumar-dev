@@ -49,7 +49,7 @@ I am a **5th Semester BCA student** currently bridging the gap between design an
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-      <br>C (Basics)
+      <br>C
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
