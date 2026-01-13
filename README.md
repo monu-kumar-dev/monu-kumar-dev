@@ -59,7 +59,7 @@ I believe in learning by **building real projects**, breaking things, and fixing
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
