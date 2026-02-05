@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&text=Monu%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Student%20|%20Frontend%20Developer%20|%20DSA%20Learner&descAlignY=55&descSize=20" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;JavaScript+%7C+React+Learner;DSA+with+Java;BCA+5th+Semester+Student" />
