@@ -1,3 +1,78 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Monu%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Student%20|%20Frontend%20Developer%20|%20DSA%20Learner&descAlignY=55&descSize=22" />
+</p>
 
-@@ -1,35 +1,80 @@<p align="center">  <img src="https://readme-typing-svg.herokuapp.com" />  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=180&section=header&text=Monu%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Student%20|%20Frontend%20Developer%20|%20DSA%20Learner&descAlignY=55&descSize=20" /></p><p align="center">  <img src="https://github-readme-activity-graph.vercel.app" width="100%" />  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;JavaScript+%7C+React+Enthusiast;Data+Structures+%26+Algorithms+with+Java;BCA+5th+Semester+Student" /></p>---### 🚀 Quick Glance- 💻 **Tech:** React.js | JavaScript | Java (DSA)- 🔥 **Streak:** Maintaining a **50+ Days** coding streak.- 🎓 **Education:** BCA Final Year.## 👋 About MeI am **Monu Kumar**, a 5th-semester **BCA student** focused on becoming a strong **Frontend Developer** while building solid foundations in **Data Structures & Algorithms (Java)**.I believe in:- Building real-world projects- Strengthening core fundamentals- Maintaining consistent GitHub contributions- Writing clean, structured code---## 🚀 Current Focus- Building responsive frontend applications using **HTML, CSS, JavaScript & React**- Practicing **DSA in Java** (logic building & problem-solving)- Improving **Git & GitHub workflow**- Learning React deeply (Hooks, state management, rendering logic)---## 🧩 Projects- 🎵 Music Player (JavaScript + DOM Manipulation)- 🎬 Movie Guide App (API Integration)- 🌦️ Weather App (Async JavaScript)- ⚛️ React Counter (JS DOM → useState Refactor)- 🧠 Java DSA Practice ProgramsMore structured projects coming soon.---## 🛠️ Tech Stack### 🧩 My Skills<p align="center">  <img src="https://skillicons.dev" />  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,git,github,vscode&theme=dark&perline=6" /></p>### 📈 Detailed Stats---## 📊 GitHub Analytics<p align="center">  <img src="https://github-readme-stats.vercel.app" height="170" />  <img src="https://github-readme-stats.vercel.app" height="170" />  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=monu-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" /></p><p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Streak Stats" />  <img src="https://nirzak-streak-stats.vercel.app/?user=monu-kumar-dev&theme=tokyonight&hide_border=false" /></p>---## 📬 Connect With Me<p align="center">  <a href="https://www.linkedin.com/in/monu-kumar-dev">    <img src="https://img.shields.io/badge/LinkedIn-Monu%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>  <a href="mailto:monukumar.software@gmail.com">    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a></p><p align="center">  <img src="https://komarev.com" />  <img src="https://komarev.com/ghpvc/?username=monu-kumar-dev&label=Profile%20Views&color=007acc&style=flat" /></p><img src="https://capsule-render.vercel.app/api?type=wave&color=007acc&height=100&section=footer" />
-0 commit commentsComments0 (0)Lock conversation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;JavaScript+%7C+React+Enthusiast;Data+Structures+%26+Algorithms+with+Java;Building+Scalable+Web+Apps" />
+</p>
+
+---
+
+## 💫 About Me
+I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Developer**. My focus lies in crafting pixel-perfect user interfaces and solving complex problems using **Java (DSA)**.
+
+- 🔭 I’m currently working on **React.js Projects**
+- 📚 I’m currently learning **Advanced State Management & Backend Integration**
+- ⚡ Fun fact: I maintain a consistent **50+ days coding streak**
+- 🎯 Goal: To build products that provide seamless user experiences.
+
+---
+
+## 🛠️ Tech Stack
+### Frontend & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" />
+  </a>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Monu's Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+* **Music Player:** A sleek UI focused on DOM manipulation.
+* **Movie Guide App:** Real-time data fetching using Fetch API.
+* **Weather Dashboard:** Async/Await implementation with location services.
+* **Java DSA Repo:** Collection of optimized solutions for 150+ problems.
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/monu-kumar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Monu%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:monukumar.software@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monu-kumar-dev&label=Profile%20Views&color=007acc&style=flat-square" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=007acc&height=100&section=footer" width="100%" />
