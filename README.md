@@ -36,16 +36,6 @@ I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Develo
 ---
 
 ## 📊 GitHub Analytics
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Monu's Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
