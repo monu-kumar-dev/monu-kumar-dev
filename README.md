@@ -8,7 +8,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About M
 I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Developer**. My focus lies in crafting pixel-perfect user interfaces and solving complex problems using **Java (DSA)**.
 
 - 🔭 I’m currently working on **React.js Projects**
