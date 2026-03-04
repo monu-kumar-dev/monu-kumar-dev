@@ -27,7 +27,7 @@ I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Develo
   </a>
 </p>
 
-### Tools & Platforms
+### Tools & Platform
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
