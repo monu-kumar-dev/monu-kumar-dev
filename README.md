@@ -19,7 +19,7 @@ I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Develo
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 ### Frontend & Languages
 <p align="left">
   <a href="https://skillicons.dev">
