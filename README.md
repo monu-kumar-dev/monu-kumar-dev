@@ -7,15 +7,14 @@
 </p>
 
 ---
-
 ## 💫 About Me 
-I am a passionate **BCA (Final Year)** student and an aspiring **Frontend Developer**. My focus lies in crafting pixel-perfect user interfaces and solving complex problems using **Java (DSA)**.
 
-- 🔭 I’m currently working on **React.js Projects**
-- 📚 I’m currently learning **Advanced State Management & Backend Integration**
-- ⚡ Fun fact: I maintain a consistent **50+ days coding streak**
-- 🎯 Goal: To build products that provide seamless user experiences.
+I am a passionate **BCA (Final Year)** student and an **Aspiring Frontend Developer** dedicated to crafting pixel-perfect user interfaces and solving complex logic using **Java (DSA)**.
 
+* 🚀 **In the works:** Building scalable and interactive **React.js Projects**.
+* 🧠 **Learning:** Mastering **Advanced State Management** and Seamless Backend Integration.
+* ⚡ **Fact:** Proudly maintaining a **50+ days coding streak** and counting!
+* 🎯 **Goal:** To engineer high-performance products that provide a seamless user experience.
 
 ---
 
