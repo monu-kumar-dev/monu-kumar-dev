@@ -44,11 +44,40 @@ I am a passionate **BCA (Final Year)** student and an **Aspiring Frontend Develo
 ---
 
 ## 🧩 Featured Projects
-* **Music Player:** A sleek UI focused on DOM manipulation.
-* **Movie Guide App:** Real-time data fetching using Fetch API.
-* **Weather Dashboard:** Async/Await implementation with location services.
-* **Java DSA Repo:** Collection of optimized solutions for 150+ problems.
 
+### 🎵 Music Player
+A sleek and interactive music player built using **JavaScript**, focusing on efficient **DOM manipulation** and a smooth user experience.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+### 🎬 Movie Guide App
+A dynamic web application that fetches real-time movie data using the **Fetch API** and displays it in an intuitive UI.
+
+**Tech Stack:** HTML, CSS, JavaScript, REST API  
+
+---
+
+### 🌦️ Weather Dashboard
+A weather application that uses **Async/Await** for handling asynchronous operations and integrates **location-based services** to provide accurate weather updates.
+
+**Tech Stack:** HTML, CSS, JavaScript, API  
+
+---
+
+### 💻 Java DSA Repository
+A well-structured collection of **150+ optimized Data Structures and Algorithms problems** implemented in Java.
+
+**Tech Stack:** Java  
+
+---
+
+### 🚀 Key Highlights
+- Clean and maintainable code  
+- Focus on performance and optimization  
+- Real-world project implementations  
+- Strong foundation in DSA and problem-solving
 ---
 
 ## 📬 Connect With Me
