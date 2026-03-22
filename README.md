@@ -74,12 +74,13 @@ A well-structured collection of **150+ optimized Data Structures and Algorithms 
 ---
 
 ### 🚀 Key Highlights
-- Clean and maintainable code  
-- Focus on performance and optimization  
-- Real-world project implementations  
-- Strong foundation in DSA and problem-solving
----
 
+- Developed clean, modular, and maintainable code following best practices  
+- Optimized solutions with a strong focus on performance and efficiency  
+- Built real-world projects demonstrating practical implementation skills  
+- Solid understanding of Data Structures & Algorithms (DSA)  
+- Strong problem-solving mindset with a scalable approach to development
+  
 ## 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/monu-kumar-dev">
