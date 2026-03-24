@@ -17,19 +17,27 @@ I am a passionate **BCA (Final Year)** student and an **Aspiring Frontend Develo
 * 🎯 **Goal:** To engineer high-performance products that provide a seamless user experience.
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stacks
-### Frontend & Languages
-<p align="left">
+### 💻 Frontend & Languages
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" />
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" 
+      alt="Frontend Tech Stack" 
+    />
   </a>
 </p>
 
-### Tools & Platform
-<p align="left">
+---
+
+### ⚙️ Tools & Platforms
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
+    <img 
+      src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" 
+      alt="Tools and Platforms" 
+    />
   </a>
 </p>
 
