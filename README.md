@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Monu%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Student%20|%20Frontend%20Developer%20|%20DSA%20Learner&descAlignY=55&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Monu%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%20BCA%20Final%20Year%20|%20DSA%20Enthusiast&descAlignY=55&descSize=22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;JavaScript+%7C+React+Enthusiast;Data+Structures+%26+Algorithms+with+Java;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=600&lines=Crafting+Pixel-Perfect+UIs;React.js+Enthusiast;Solving+DSA+in+Java;Building+Scalable+Web+Apps" />
 </p>
 
 ---
