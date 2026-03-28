@@ -7,89 +7,85 @@
 </p>
 
 ---
-## 💫 About Me 
 
-I am a passionate **BCA (Final Year)** student and an **Aspiring Frontend Developer** dedicated to crafting pixel-perfect user interfaces and solving complex logic using **Java (DSA)**.
+## 🚀 About Me  
 
-* 🚀 **In the works:** Building scalable and interactive **React.js Projects**.
-* 🧠 **Learning:** Mastering **Advanced State Management** and Seamless Backend Integration.
-* ⚡ **Fact:** Proudly maintaining a **50+ days coding streak** and counting!
-* 🎯 **Goal:** To engineer high-performance products that provide a seamless user experience.
+💡 Passionate **Frontend Developer** & **BCA Final Year Student**  
+🎯 Focused on building **scalable, responsive & high-performance web apps**
+
+- 🚀 Currently building **React.js Projects**
+- 🧠 Learning **Advanced State Management & Backend Integration**
+- 🔥 Maintaining **50+ Days Coding Streak**
+- 💻 Strong in **Java + DSA**
+- 🎯 Goal: Build products that deliver **real-world impact**
 
 ---
-## 🛠️ Tech Stack
 
-### 💻 Frontend & Languages
+## 🛠️ Tech Stack  
+
+### 💻 Frontend & Languages  
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" 
-      alt="Frontend Tech Stack" 
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
+## 📊 GitHub Stats  
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" 
-      alt="Tools and Platforms" 
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu-kumar-dev&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-### 🎵 Music Player
-A sleek and interactive music player built using **JavaScript**, focusing on efficient **DOM manipulation** and a smooth user experience.
-
-**Tech Stack:** HTML, CSS, JavaScript  
+### 🎵 Music Player  
+✨ Interactive music player with smooth controls & DOM optimization  
+🔧 Tech: HTML, CSS, JavaScript  
 
 ---
 
-### 🎬 Movie Guide App
-A dynamic web application that fetches real-time movie data using the **Fetch API** and displays it in an intuitive UI.
-
-**Tech Stack:** HTML, CSS, JavaScript, REST API  
-
----
-
-### 🌦️ Weather Dashboard
-A weather application that uses **Async/Await** for handling asynchronous operations and integrates **location-based services** to provide accurate weather updates.
-
-**Tech Stack:** HTML, CSS, JavaScript, API  
+### 🎬 Movie Guide App  
+🎥 Fetches real-time movie data using API  
+🔧 Tech: HTML, CSS, JavaScript, REST API  
 
 ---
 
-### 💻 Java DSA Repository
-A well-structured collection of **150+ optimized Data Structures and Algorithms problems** implemented in Java.
-
-**Tech Stack:** Java  
+### 🌦️ Weather Dashboard  
+🌍 Location-based weather app using async operations  
+🔧 Tech: HTML, CSS, JavaScript, API  
 
 ---
 
-### 🚀 Key Highlights
+### 💻 Java DSA Repository  
+📚 150+ optimized DSA problems in Java  
+🔧 Tech: Java  
 
-- Developed clean, modular, and maintainable code following best practices  
-- Optimized solutions with a strong focus on performance and efficiency  
-- Built real-world projects demonstrating practical implementation skills  
-- Solid understanding of Data Structures & Algorithms (DSA)  
-- Strong problem-solving mindset with a scalable approach to development
-  
-## 📬 Connect With Me
+---
+
+## 🚀 Key Highlights  
+
+✔️ Clean & maintainable code (best practices)  
+✔️ Performance-focused development  
+✔️ Real-world project experience  
+✔️ Strong DSA foundation  
+✔️ Problem-solving mindset  
+
+---
+
+## 📬 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/monu-kumar-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Monu%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -98,6 +94,8 @@ A well-structured collection of **150+ optimized Data Structures and Algorithms 
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=monu-kumar-dev&label=Profile%20Views&color=007acc&style=flat-square" />
