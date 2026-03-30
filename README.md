@@ -7,18 +7,32 @@
 </p>
 
 ---
-
 ## 🚀 About Me  
 
-💡 Passionate **Frontend Developer** & **BCA Final Year Student**  
-🎯 Focused on building **scalable, responsive & high-performance web apps**
+💡 **Frontend Developer** | 🎓 **BCA Final Year Student**  
+🎯 Passionate about building **scalable, responsive, and high-performance web applications**
 
-- 🚀 Currently building **React.js Projects**
+---
+
+### 🔥 What I'm Doing  
+- 🚀 Building projects using **React.js**
 - 🧠 Learning **Advanced State Management & Backend Integration**
-- 🔥 Maintaining **50+ Days Coding Streak**
-- 💻 Strong in **Java + DSA**
-- 🎯 Goal: Build products that deliver **real-world impact**
+- 🔥 Maintaining a **50+ Days Coding Streak**
+- 💻 Strong foundation in **Java & Data Structures and Algorithms (DSA)**
 
+---
+
+### 🎯 Goals  
+- Build **real-world impactful products**
+- Continuously improve **problem-solving & development skills**
+- Contribute to **open-source projects**
+
+---
+
+### ⚡ Quick Highlights  
+- 💡 Consistent learner & self-driven developer  
+- ⚙️ Focused on clean code & performance  
+- 🌐 Interested in **Full-Stack Development**
 ---
 
 ## 🛠️ Tech Stack  
