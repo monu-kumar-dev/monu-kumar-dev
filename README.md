@@ -83,16 +83,15 @@
 
 ---
 
+
 ## 🚀 Key Highlights  
 
-✔️ Clean & maintainable code (best practices)  
-✔️ Performance-focused development  
-✔️ Real-world project experience  
-✔️ Strong DSA foundation  
-✔️ Problem-solving mindset  
-
+- ✔️ Clean, scalable & maintainable code  
+- ✔️ Performance-driven development  
+- ✔️ Hands-on project experience  
+- ✔️ Strong DSA & problem-solving skills
+  
 ---
-
 ## 📬 Connect With Me  
 
 <p align="center">
