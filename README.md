@@ -29,10 +29,12 @@
 
 ---
 
-### ⚡ Quick Highlights  
+## ⚡ Highlights  
+
 - 💡 Consistent learner & self-driven developer  
-- ⚙️ Focused on clean code & performance  
-- 🌐 Interested in **Full-Stack Development**
+- ⚙️ Focused on writing clean, efficient, and maintainable code  
+- 🌐 Passionate about Full-Stack Development
+
 ---
 
 ## 🛠️ Tech Stack  
