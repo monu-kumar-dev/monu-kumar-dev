@@ -29,13 +29,6 @@
 
 ---
 
-## ⚡ Highlights  
-
-- 💡 Consistent and self-motivated learner with a strong problem-solving mindset  
-- ⚙️ Focused on writing clean, optimized, and maintainable code  
-- 🌐 Enthusiastic about developing scalable full-stack applications  
-
----
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend & Languages  
