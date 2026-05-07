@@ -70,12 +70,6 @@
 
 ---
 
-### 💻 Java DSA Repository  
-📚 150+ optimized DSA problems in Java  
-🔧 Tech: Java  
-
----
-
 
 ## 🚀 Key Highlights  
 
