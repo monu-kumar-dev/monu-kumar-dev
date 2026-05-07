@@ -73,10 +73,10 @@
 
 ## 🚀 Key Highlights  
 
-- ✔️ Clean, scalable & maintainable code  
-- ✔️ Performance-driven development  
-- ✔️ Hands-on project experience  
-- ✔️ Strong DSA & problem-solving skills
+-  Clean, scalable & maintainable code  
+-  Performance-driven development  
+-  Hands-on project experience  
+-  Strong DSA & problem-solving skills
   
 ---
 ## 📬 Connect With Me  
