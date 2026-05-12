@@ -22,12 +22,6 @@
 
 ---
 
-### 🎯 Goals  
-- Build **real-world impactful products**
-- Continuously improve **problem-solving & development skills**
-- Contribute to **open-source projects**
-
----
 
 ## 🛠️ Tech Stack  
 
