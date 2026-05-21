@@ -14,13 +14,6 @@
 
 ---
 
-### 🔥 What I'm Doing  
-- 🚀 Building projects using **React.js**
-- 🧠 Learning **Advanced State Management & Backend Integration**
-- 🔥 Maintaining a **50+ Days Coding Streak**
-- 💻 Strong foundation in **Java & Data Structures and Algorithms (DSA)**
-
----
 
 
 ## 🛠️ Tech Stack  
