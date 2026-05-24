@@ -7,7 +7,7 @@
 </p>
 
 ---
-## 🚀 About Me  
+##  About Me  
 
 💡 **Frontend Developer** | 🎓 **BCA Final Year Student**  
 🎯 Passionate about building **scalable, responsive, and high-performance web applications**
@@ -16,7 +16,7 @@
 
 
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### 💻 Frontend & Languages  
 <p align="center">
@@ -30,14 +30,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-## 🧩 Featured Projects  
+##  Featured Projects  
 
 ### 🎵 Music Player  
 ✨ Interactive music player with smooth controls & DOM optimization  
