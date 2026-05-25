@@ -18,12 +18,12 @@
 
 ## Tech Stack  
 
-### 💻 Frontend & Languages  
+###  Frontend & Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,c&theme=dark" />
 </p>
 
-### ⚙️ Tools & Platforms  
+###  Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
 </p>
