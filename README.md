@@ -9,8 +9,8 @@
 ---
 ##  About Me  
 
-💡 **Frontend Developer** | 🎓 **BCA Final Year Student**  
-🎯 Passionate about building **scalable, responsive, and high-performance web applications**
+ **Frontend Developer** | 🎓 **BCA Final Year Student**  
+ Passionate about building **scalable, responsive, and high-performance web applications**
 
 ---
 
@@ -59,7 +59,7 @@
 
 
 
-## 📬 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monu-kumar-dev">
