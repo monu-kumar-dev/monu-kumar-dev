@@ -39,21 +39,21 @@
 ---
 ##  Featured Projects  
 
-### 🎵 Music Player  
+###  Music Player  
 ✨ Interactive music player with smooth controls & DOM optimization  
 🔧 Tech: HTML, CSS, JavaScript  
 
 ---
 
 ### 🎬 Movie Guide App  
-🎥 Fetches real-time movie data using API  
-🔧 Tech: HTML, CSS, JavaScript, REST API  
+ Fetches real-time movie data using API  
+ Tech: HTML, CSS, JavaScript, REST API  
 
 ---
 
 ### 🌦️ Weather Dashboard  
-🌍 Location-based weather app using async operations  
-🔧 Tech: HTML, CSS, JavaScript, API  
+ Location-based weather app using async operations  
+ Tech: HTML, CSS, JavaScript, API  
 
 ---
 
