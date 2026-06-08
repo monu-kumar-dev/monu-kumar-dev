@@ -40,8 +40,8 @@
 ##  Featured Projects  
 
 ###  Music Player  
-✨ Interactive music player with smooth controls & DOM optimization  
-🔧 Tech: HTML, CSS, JavaScript  
+ Interactive music player with smooth controls & DOM optimization  
+ Tech: HTML, CSS, JavaScript  
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 🌦️ Weather Dashboard  
+### Weather Dashboard  
  Location-based weather app using async operations  
  Tech: HTML, CSS, JavaScript, API  
 
