@@ -31,7 +31,7 @@ Frontend me haath saaf karne ke baad, ab mai **Backend Development** sikh raha h
 
 ### 🔧 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman&theme=dark" />
 </p>
 
 ---
