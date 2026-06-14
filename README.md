@@ -38,7 +38,6 @@ Frontend me haath saaf karne ke baad, ab mai **Backend Development** sikh raha h
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monu-kumar-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Monu's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-kumar-dev&theme=tokyonight&hide_border=true" alt="Monu's Streak Stats" width="49%" />
 </p>
 
